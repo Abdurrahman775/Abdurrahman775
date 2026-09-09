@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://abdurrahman775.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="mailto:abdurrahmanalhassan775@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://ng.linkedin.com/in/abdurrahman-alhassan-04b271318" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdurrahman-alhassan" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Abdurrahman775" target="_blank">🐙 GitHub</a>
 </p>
 
