@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.lunobyte.com" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:abdurrahman@lunobyte.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/abdurrahman-alhassan" target="_blank">💼 LinkedIn</a>
+  <a href="https://abdurrahman775.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:abdurrahmanalhassan775@gmail.com">📧 Email</a> &nbsp;·&nbsp;
+  <a href="https://ng.linkedin.com/in/abdurrahman-alhassan-04b271318" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Abdurrahman775" target="_blank">🐙 GitHub</a>
 </p>
 
 ---
@@ -77,7 +78,7 @@ I'm a full-stack developer with hands-on experience building real-world products
 
 I'm available for remote work — full-time roles, contract projects, or freelance builds.
 
-📧 Reach me at **abdurrahman@lunobyte.com** or visit **[portfolio.lunobyte.com](https://portfolio.lunobyte.com)**
+📧 Reach me at **abdurrahmanalhassan775@gmail.com** or visit **[abdurrahman775.vercel.app](https://abdurrahman775.vercel.app)**
 
 ---
 
