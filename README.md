@@ -68,8 +68,10 @@ I'm a full-stack developer with hands-on experience building real-world products
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdurrahman775&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahman775&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurrahman775&theme=dark&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahman775&theme=github_dark" width="100%"/>
 </p>
 
 ---
